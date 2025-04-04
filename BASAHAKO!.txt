@@ -1,6 +1,8 @@
 ======== ADVANCED IS LARAVEL 10 CRUD BISAYA GUIDES =====
+AYAW KALIMOT UG SETUP SA DATABASE
+AYHA NA DAYUN MAG php artisan migrate
 
-Para ma display ang gi create nga new product dadto sa table:
+• Para ma display ang gi create nga new product dadto sa table:
 1.Go to index.blade.php
 - nay Bisaya nga guides. Basa lang.
 
