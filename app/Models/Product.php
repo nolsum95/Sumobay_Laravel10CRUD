@@ -9,7 +9,10 @@ class Product extends Model
 {
     use HasFactory;
 
+
     protected $table = 'products';
+
+    //Para maka delete ug item e add ni nga code >> protected $primaryKey = 'product_id';
 
 
     protected $fillable = [

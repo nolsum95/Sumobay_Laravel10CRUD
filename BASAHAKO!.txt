@@ -1,0 +1,14 @@
+======== ADVANCED IS LARAVEL 10 CRUD BISAYA GUIDES =====
+
+Para ma display ang gi create nga new product dadto sa table:
+1.Go to index.blade.php
+- nay Bisaya nga guides. Basa lang.
+
+2. Sunda lang ang guides para sa buttons ug forms.
+- para mugana ang functions nga Show ug Edit.
+- para maka Edit og item. adto lang sa App/Model/Product/edit.blade.php. sunda lang dayun ang naka comment nga bisaya
+
+3. Para mugana ang Delete button, Adto sa App/Model/Product.
+- Basaha lang dayun ang naka comments.
+
+AYAW KALIMOT UG DELETE SA MGA BISAYA COMMENTS.

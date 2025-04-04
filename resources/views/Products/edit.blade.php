@@ -20,8 +20,8 @@
                     </ul>
                 </div>
             @endif
-
-            <form action="{{ route('products.update',$product->id) }}" method="POST">
+                    {{-- ilisi ang 'id' to 'product_id' --}}
+                <form action="{{ route('products.update',$product->id) }}" method="POST">
                 @csrf
                 @method('PUT')
 
